@@ -16,23 +16,22 @@ The technical analysis deliverables required to complete the Credit Risk analysi
 
 
 ## Results: 
+- The balanced accuracy score and the precision and recall scores of all six machine learning models are shown: 
 
-### The balanced accuracy score and the precision and recall scores of all six machine learning models are shown: 
-
-##### a.) Random Oversampler:
+#### a.) Random Oversampler:
 
 <br /> ![Image](Images/Random_oversampler.png) <br />
 
-##### b.) SMOTE Oversampler:
+#### b.) SMOTE Oversampler:
 
 <br /> ![Image](Images/SMOTE_oversampler.png) <br />
 
-##### c.) ClusterCentroids Undersampler:
+#### c.) ClusterCentroids Undersampler:
 
 
 <br /> ![Image](Images/Cluster_centriods_undersampler.png) <br />
 
-##### d.) SMOTEENN combinationsampler:
+#### d.) SMOTEENN combinationsampler:
 
 <br /> ![Image](Images/SMOTEENN%20Combination%20Sampling.png) <br />
 
@@ -45,5 +44,5 @@ The technical analysis deliverables required to complete the Credit Risk analysi
 
 
 ## Summary:
-- The Easy Ensemble AdaBoost Classifier had the highest accuracy score and provided the highest sensitivity of all the six models. However, the precision and the F1 scores were low for all models.  In General, utilizing EasyEnsembleClassifier will provide the best ability to detect high-risk loans with recall score of 92%.
+- The Easy Ensemble AdaBoost Classifier had the highest accuracy score (**92%**) and provided the highest sensitivity of all the six models. However, the precision and the F1 scores were low for all models.  In General, utilizing EasyEnsembleClassifier will provide the best ability to detect high-risk loans with recall score of **92%**.
 
