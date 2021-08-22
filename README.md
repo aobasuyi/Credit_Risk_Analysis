@@ -44,5 +44,5 @@ The technical analysis deliverables required to complete the Credit Risk analysi
 
 
 ## Summary:
-- The Easy Ensemble AdaBoost Classifier had the highest accuracy score (**92%**) and provided the highest sensitivity of all the six models. However, the precision and the F1 scores were low for all models.  In General, utilizing EasyEnsembleClassifier will provide the best ability to detect high-risk loans with recall score of **92%**.
+- The Easy Ensemble AdaBoost Classifier had the highest accuracy score (**93%**) and provided the highest sensitivity of all the six models. However, the precision and the F1 scores were low for all models.  In General, utilizing EasyEnsembleClassifier will provide the best ability to detect high-risk loans with recall score of **92%**.
 
